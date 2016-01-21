@@ -1,0 +1,4 @@
+I’m coding for the first time woohoo!
+open Text Edit
+open Terminal 
+type cd ~/desktop/project0  then hit enter
